@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dermalog.hardware.tutorial"
+    android:versionCode="1"
+    android:versionName="1.0-source" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="27" />
+
+    <uses-feature
+        android:name="android.hardware.usb.host"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.USB_PERMISSION" />
+    <uses-permission android:name="android.permission.NFC" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Base.Theme.AppCompat" >
+        <activity
+            android:name="com.dermalog.hardware.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.dermalog.hardware.FingerprintScannerActivity"
+            android:screenOrientation="landscape" />
+        <activity android:name="com.dermalog.hardware.PowerManagerActivity" />
+        <activity android:name="com.dermalog.hardware.PrinterActivity" />
+        <activity android:name="com.dermalog.hardware.CardReaderManagerActivity" />
+        <activity android:name="com.dermalog.hardware.CardReaderActivity" />
+        <activity android:name="com.dermalog.hardware.BarcodeScanActivity" />
+        <activity android:name="com.dermalog.hardware.MagneticCardActivity" />
+    </application>
+
+</manifest>

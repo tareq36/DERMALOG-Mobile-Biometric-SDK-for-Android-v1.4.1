@@ -1,0 +1,5 @@
+com.dermalog.hardware
+com.dermalog.hardware.cardreader
+com.dermalog.hardware.exceptions
+com.dermalog.hardware.magneticcard
+com.dermalog.util

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :BarcodeCommon:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/127c597a7773dd5b66fa1142b07b7318/BarcodeCommon-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/127c597a7773dd5b66fa1142b07b7318/BarcodeCommon-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

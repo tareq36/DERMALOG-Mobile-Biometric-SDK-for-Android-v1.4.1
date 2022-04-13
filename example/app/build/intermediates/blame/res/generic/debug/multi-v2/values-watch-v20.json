@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Tareq\\Downloads\\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\\example\\app\\build\\intermediates\\incremental\\mergeGenericDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Tareq\\.gradle\\caches\\transforms-2\\files-2.1\\06c723f9303ca97de33ab1b6f857ab45\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

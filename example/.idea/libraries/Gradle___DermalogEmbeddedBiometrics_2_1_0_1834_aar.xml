@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :DermalogEmbeddedBiometrics:2.1.0.1834@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23f45eb4eaa1f7bf93b3e875994776b1/DermalogEmbeddedBiometrics-2.1.0.1834/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23f45eb4eaa1f7bf93b3e875994776b1/DermalogEmbeddedBiometrics-2.1.0.1834/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

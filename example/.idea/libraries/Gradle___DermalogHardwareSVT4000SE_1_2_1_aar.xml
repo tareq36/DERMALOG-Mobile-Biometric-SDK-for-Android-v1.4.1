@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :DermalogHardwareSVT4000SE:1.2.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81d926fdc7e05bfdd5730358ff5cfbcf/DermalogHardwareSVT4000SE-1.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81d926fdc7e05bfdd5730358ff5cfbcf/DermalogHardwareSVT4000SE-1.2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81d926fdc7e05bfdd5730358ff5cfbcf/DermalogHardwareSVT4000SE-1.2.1/jars/libs/telpo_api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

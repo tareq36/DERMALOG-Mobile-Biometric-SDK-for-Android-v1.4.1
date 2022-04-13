@@ -1,0 +1,69 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        applicationId "com.dermalog.hardware.tutorial"
+        minSdkVersion 15
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0-source"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    flavorDimensions "flavor"
+
+    productFlavors {
+//        generic {
+//            dimension "flavor"
+//        }
+//
+//        svt3000 {
+//            dimension "flavor"
+//            ndk {
+//                abiFilters 'armeabi-v7a'
+//            }
+//        }
+//
+//        svt3000se {
+//            dimension "flavor"
+//            ndk {
+//                abiFilters 'armeabi-v7a'
+//            }
+//        }
+
+        svt4000se {
+            dimension "flavor"
+            ndk {
+                abiFilters 'armeabi-v7a'
+            }
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+
+    api ':DermalogEmbeddedBiometrics:2.+@aar'
+    api ':DermalogImageIO:2.+@aar'
+    api ':DermalogCommon:1.+@aar'
+
+    api ':DermalogHardwareDevicesCommon:1.+@aar'
+
+//    svt3000Api ':DermalogHardwareSVT3000:1.+@aar'
+//    svt3000seApi ':DermalogHardwareSVT3000SE:1.+@aar'
+    svt4000seApi ':DermalogHardwareSVT4000SE:1.2.+@aar'
+
+    api ':BarcodeZxing:1.+@aar'
+    api ':BarcodeCommon:1.+@aar'
+    api ':VisionCommon:1.+@aar'
+    api ':DermalogJNA:4.+@aar'
+}

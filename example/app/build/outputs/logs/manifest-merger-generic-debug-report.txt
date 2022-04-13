@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [:DermalogEmbeddedBiometrics:2.1.0.1834] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\61a2c04a7c7c29f4fee025c84697b118\AndroidManifest.xml:2:1-11:12
+MERGED from [:DermalogImageIO:2.0.1.1822] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\c7d1fa645c58429088d8867c2a296e88\AndroidManifest.xml:2:1-16:12
+MERGED from [:DermalogCommon:1.2.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\f0eb6db1b3e959f672440f1ec5c3fc49\AndroidManifest.xml:2:1-11:12
+MERGED from [:DermalogHardwareDevicesCommon:1.4.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\d58cb8dce604d97e7a8c31d931a75c29\AndroidManifest.xml:2:1-13:12
+MERGED from [:BarcodeZxing:1.0.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\278e21ff5bc77823bfaf2cb539f5b7ce\AndroidManifest.xml:2:1-12:12
+MERGED from [:BarcodeCommon:1.0.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\e06dbc92b7322155fafbd2bdaef51404\AndroidManifest.xml:2:1-12:12
+MERGED from [:VisionCommon:1.0.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\143c4b9149dafa7a568c2e9aaae055c3\AndroidManifest.xml:2:1-18:12
+MERGED from [:DermalogJNA:4.4.0.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\4686aee0efdb33082594ecb53519b215\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\06c723f9303ca97de33ab1b6f857ab45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\a4ccdc24651854e715d88c6a1ac00706\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\d54fd17f773b8d6788494ab7e57e078f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\f5f424198397169cdfa8346eb9241007\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\b70ce4f0b2185931abbc231fb83e4282\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\bc3c0c4159bbe719296249a79f2cb571\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\6def02b75902ac6611853429eee14836\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\fc918b6ea1666236225b76278522ab4c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\842ad44b908d59007a2a938d6b6cbc47\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\98a9b16099a396fdd1eedaf47141fdf6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\a3576211e4e0d7d5a66c5b277de4c11a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.usb.host
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:5:5-7:36
+	android:required
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:7:9-33
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:6:9-49
+uses-feature#android.hardware.nfc
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:8:5-10:36
+	android:required
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:10:9-33
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:9:9-44
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:12:5-81
+MERGED from [:DermalogImageIO:2.0.1.1822] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\c7d1fa645c58429088d8867c2a296e88\AndroidManifest.xml:13:5-81
+MERGED from [:DermalogImageIO:2.0.1.1822] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\c7d1fa645c58429088d8867c2a296e88\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.USB_PERMISSION
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:13:22-70
+uses-permission#android.permission.NFC
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:14:5-62
+MERGED from [:DermalogHardwareDevicesCommon:1.4.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\d58cb8dce604d97e7a8c31d931a75c29\AndroidManifest.xml:11:5-62
+MERGED from [:DermalogHardwareDevicesCommon:1.4.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\d58cb8dce604d97e7a8c31d931a75c29\AndroidManifest.xml:11:5-62
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:14:22-59
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:15:22-65
+application
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:17:5-41:19
+MERGED from [:VisionCommon:1.0.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\143c4b9149dafa7a568c2e9aaae055c3\AndroidManifest.xml:13:5-16:19
+MERGED from [:VisionCommon:1.0.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\143c4b9149dafa7a568c2e9aaae055c3\AndroidManifest.xml:13:5-16:19
+MERGED from [:DermalogJNA:4.4.0.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\4686aee0efdb33082594ecb53519b215\AndroidManifest.xml:11:5-15:19
+MERGED from [:DermalogJNA:4.4.0.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\4686aee0efdb33082594ecb53519b215\AndroidManifest.xml:11:5-15:19
+	android:supportsRtl
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:22:9-52
+activity#com.dermalog.hardware.MainActivity
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:screenOrientation
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:25:13-49
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.dermalog.hardware.FingerprintScannerActivity
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:32:9-34:53
+	android:screenOrientation
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:34:13-50
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:33:13-55
+activity#com.dermalog.hardware.PowerManagerActivity
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:35:9-58
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:35:19-55
+activity#com.dermalog.hardware.PrinterActivity
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:36:9-53
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:36:19-50
+activity#com.dermalog.hardware.CardReaderManagerActivity
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:37:9-63
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:37:19-60
+activity#com.dermalog.hardware.CardReaderActivity
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:38:9-56
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:38:19-53
+activity#com.dermalog.hardware.BarcodeScanActivity
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:39:9-57
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:39:19-54
+activity#com.dermalog.hardware.MagneticCardActivity
+ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:40:9-57
+	android:name
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml:40:19-55
+uses-sdk
+INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+MERGED from [:DermalogEmbeddedBiometrics:2.1.0.1834] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\61a2c04a7c7c29f4fee025c84697b118\AndroidManifest.xml:7:5-9:41
+MERGED from [:DermalogEmbeddedBiometrics:2.1.0.1834] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\61a2c04a7c7c29f4fee025c84697b118\AndroidManifest.xml:7:5-9:41
+MERGED from [:DermalogImageIO:2.0.1.1822] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\c7d1fa645c58429088d8867c2a296e88\AndroidManifest.xml:7:5-9:41
+MERGED from [:DermalogImageIO:2.0.1.1822] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\c7d1fa645c58429088d8867c2a296e88\AndroidManifest.xml:7:5-9:41
+MERGED from [:DermalogCommon:1.2.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\f0eb6db1b3e959f672440f1ec5c3fc49\AndroidManifest.xml:7:5-9:41
+MERGED from [:DermalogCommon:1.2.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\f0eb6db1b3e959f672440f1ec5c3fc49\AndroidManifest.xml:7:5-9:41
+MERGED from [:DermalogHardwareDevicesCommon:1.4.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\d58cb8dce604d97e7a8c31d931a75c29\AndroidManifest.xml:7:5-9:41
+MERGED from [:DermalogHardwareDevicesCommon:1.4.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\d58cb8dce604d97e7a8c31d931a75c29\AndroidManifest.xml:7:5-9:41
+MERGED from [:BarcodeZxing:1.0.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\278e21ff5bc77823bfaf2cb539f5b7ce\AndroidManifest.xml:8:5-10:41
+MERGED from [:BarcodeZxing:1.0.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\278e21ff5bc77823bfaf2cb539f5b7ce\AndroidManifest.xml:8:5-10:41
+MERGED from [:BarcodeCommon:1.0.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\e06dbc92b7322155fafbd2bdaef51404\AndroidManifest.xml:8:5-10:41
+MERGED from [:BarcodeCommon:1.0.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\e06dbc92b7322155fafbd2bdaef51404\AndroidManifest.xml:8:5-10:41
+MERGED from [:VisionCommon:1.0.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\143c4b9149dafa7a568c2e9aaae055c3\AndroidManifest.xml:7:5-9:41
+MERGED from [:VisionCommon:1.0.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\143c4b9149dafa7a568c2e9aaae055c3\AndroidManifest.xml:7:5-9:41
+MERGED from [:DermalogJNA:4.4.0.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\4686aee0efdb33082594ecb53519b215\AndroidManifest.xml:7:5-9:41
+MERGED from [:DermalogJNA:4.4.0.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\4686aee0efdb33082594ecb53519b215\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\06c723f9303ca97de33ab1b6f857ab45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\06c723f9303ca97de33ab1b6f857ab45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\a4ccdc24651854e715d88c6a1ac00706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\a4ccdc24651854e715d88c6a1ac00706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\d54fd17f773b8d6788494ab7e57e078f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\d54fd17f773b8d6788494ab7e57e078f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\f5f424198397169cdfa8346eb9241007\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\f5f424198397169cdfa8346eb9241007\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\b70ce4f0b2185931abbc231fb83e4282\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\b70ce4f0b2185931abbc231fb83e4282\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\bc3c0c4159bbe719296249a79f2cb571\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\bc3c0c4159bbe719296249a79f2cb571\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\6def02b75902ac6611853429eee14836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\6def02b75902ac6611853429eee14836\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\fc918b6ea1666236225b76278522ab4c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\fc918b6ea1666236225b76278522ab4c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\842ad44b908d59007a2a938d6b6cbc47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\842ad44b908d59007a2a938d6b6cbc47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\98a9b16099a396fdd1eedaf47141fdf6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\98a9b16099a396fdd1eedaf47141fdf6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\a3576211e4e0d7d5a66c5b277de4c11a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\a3576211e4e0d7d5a66c5b277de4c11a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tareq\Downloads\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\example\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:DermalogImageIO:2.0.1.1822] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\c7d1fa645c58429088d8867c2a296e88\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from [:DermalogImageIO:2.0.1.1822] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\c7d1fa645c58429088d8867c2a296e88\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.INTERNET
+ADDED from [:DermalogImageIO:2.0.1.1822] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\c7d1fa645c58429088d8867c2a296e88\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [:DermalogImageIO:2.0.1.1822] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\c7d1fa645c58429088d8867c2a296e88\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:DermalogImageIO:2.0.1.1822] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\c7d1fa645c58429088d8867c2a296e88\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from [:DermalogImageIO:2.0.1.1822] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\c7d1fa645c58429088d8867c2a296e88\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.CAMERA
+ADDED from [:VisionCommon:1.0.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\143c4b9149dafa7a568c2e9aaae055c3\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [:VisionCommon:1.0.0] C:\Users\Tareq\.gradle\caches\transforms-2\files-2.1\143c4b9149dafa7a568c2e9aaae055c3\AndroidManifest.xml:11:22-62

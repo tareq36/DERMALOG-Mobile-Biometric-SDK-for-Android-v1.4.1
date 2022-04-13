@@ -1,0 +1,4 @@
+#Thu Jan 20 12:57:37 BDT 2022
+base.0=C\:\\Users\\Tareq\\Downloads\\DERMALOG-Mobile-Biometric-SDK-for-Android-v1.4.1\\example\\app\\build\\intermediates\\dex\\svt4000seDebug\\mergeDexSvt4000seDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
